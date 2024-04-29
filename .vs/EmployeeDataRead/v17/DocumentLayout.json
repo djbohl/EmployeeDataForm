@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B66013F5-6ED6-4712-A163-0FE4A957BD0C}|EmployeeDataRead\\EmployeeDataRead.vbproj|C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\employeedataread\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B66013F5-6ED6-4712-A163-0FE4A957BD0C}|EmployeeDataRead\\EmployeeDataRead.vbproj|solutionrelative:employeedataread\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66013F5-6ED6-4712-A163-0FE4A957BD0C}|EmployeeDataRead\\EmployeeDataRead.vbproj|C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\employeedataread\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B66013F5-6ED6-4712-A163-0FE4A957BD0C}|EmployeeDataRead\\EmployeeDataRead.vbproj|solutionrelative:employeedataread\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66013F5-6ED6-4712-A163-0FE4A957BD0C}|EmployeeDataRead\\EmployeeDataRead.vbproj|c:\\users\\djboh\\source\\repos\\employeedataread\\employeedataread\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B66013F5-6ED6-4712-A163-0FE4A957BD0C}|EmployeeDataRead\\EmployeeDataRead.vbproj|solutionrelative:employeedataread\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\EmployeeDataRead\\Form1.vb",
+              "RelativeDocumentMoniker": "EmployeeDataRead\\Form1.vb",
+              "ToolTip": "C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\EmployeeDataRead\\Form1.vb",
+              "RelativeToolTip": "EmployeeDataRead\\Form1.vb",
+              "ViewState": "AQIAAHAAAAAAAAAAAADwvwsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T14:54:00.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\EmployeeDataRead\\Form1.vb",
+              "RelativeDocumentMoniker": "EmployeeDataRead\\Form1.vb",
+              "ToolTip": "C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\EmployeeDataRead\\Form1.vb [Design]",
+              "RelativeToolTip": "EmployeeDataRead\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T14:46:49.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\EmployeeDataRead\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "EmployeeDataRead\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\djboh\\source\\repos\\EmployeeDataRead\\EmployeeDataRead\\Form1.Designer.vb",
+              "RelativeToolTip": "EmployeeDataRead\\Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-28T14:45:54.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

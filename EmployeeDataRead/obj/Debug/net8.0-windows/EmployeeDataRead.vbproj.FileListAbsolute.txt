@@ -1,0 +1,16 @@
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\bin\Debug\net8.0-windows\EmployeeDataRead.exe
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\bin\Debug\net8.0-windows\EmployeeDataRead.deps.json
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\bin\Debug\net8.0-windows\EmployeeDataRead.runtimeconfig.json
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\bin\Debug\net8.0-windows\EmployeeDataRead.dll
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\bin\Debug\net8.0-windows\EmployeeDataRead.pdb
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.Form1.resources
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.vbproj.GenerateResource.cache
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.AssemblyInfoInputs.cache
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.AssemblyInfo.vb
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.vbproj.CoreCompileInputs.cache
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.dll
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\refint\EmployeeDataRead.dll
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.pdb
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\EmployeeDataRead.genruntimeconfig.cache
+C:\Users\djboh\source\repos\EmployeeDataRead\EmployeeDataRead\obj\Debug\net8.0-windows\ref\EmployeeDataRead.dll
